@@ -1,0 +1,28 @@
+background = #282c34
+foreground = #dddad2
+
+cursor-color = #b3aae6
+cursor-text = #282c34
+
+selection-background = #3e4451
+selection-foreground = #dddad2
+
+# 0–7: shadow, tulip, wormwood, feather grass, sky, sage, water, white
+palette = 0=#21252b
+palette = 1=#e08a7c
+palette = 2=#a3b19c
+palette = 3=#d3c8ae
+palette = 4=#93bee2
+palette = 5=#b3aae6
+palette = 6=#98c3bd
+palette = 7=#c9c5bc
+
+# 8–15: the same colors, lighter
+palette = 8=#8e929c
+palette = 9=#eba092
+palette = 10=#b8c5b1
+palette = 11=#e3d9bf
+palette = 12=#aed0ec
+palette = 13=#c9c2ee
+palette = 14=#b3d5d1
+palette = 15=#f2eee5
