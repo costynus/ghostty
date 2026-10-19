@@ -9,7 +9,7 @@ theme = nagi-gray
 window-width = 115
 window-height = 36
 window-inherit-working-directory = false
-background-opacity = 0.95
+background-opacity = 0.9
 background-blur = 20
 
 # Behavior
