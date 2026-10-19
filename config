@@ -9,3 +9,15 @@ theme = nagi-gray
 window-width = 115
 window-height = 36
 window-inherit-working-directory = false
+background-opacity = 0.95
+background-blur = 20
+
+# Behavior
+copy-on-select = clipboard
+quit-after-last-window-closed = true
+
+# macOS
+macos-option-as-alt = true
+
+# Keybinds
+keybind = global:cmd+grave_accent=toggle_quick_terminal
