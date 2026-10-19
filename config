@@ -8,3 +8,4 @@ theme = nagi-gray
 # Window
 window-width = 115
 window-height = 36
+window-inherit-working-directory = false
