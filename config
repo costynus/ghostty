@@ -10,7 +10,7 @@ window-width = 115
 window-height = 36
 window-inherit-working-directory = false
 background-opacity = 0.9
-background-blur = 20
+background-blur = 30
 
 # Behavior
 copy-on-select = clipboard
