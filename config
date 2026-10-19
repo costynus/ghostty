@@ -21,3 +21,15 @@ macos-option-as-alt = true
 
 # Keybinds
 keybind = global:cmd+grave_accent=toggle_quick_terminal
+
+# Cursor
+cursor-style = block
+cursor-style-blink = false
+
+# Shaders, applied in order (unfocused_dim must stay last)
+custom-shader = shaders/cursor_trail.glsl
+custom-shader = shaders/cursor_ripple.glsl
+custom-shader = shaders/focus_flash.glsl
+custom-shader = shaders/unfocused_dim.glsl
+# unfocused_dim.glsl handles dimming, so turn off the built-in one for splits
+unfocused-split-opacity = 1.0
